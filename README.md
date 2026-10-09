@@ -1,40 +1,39 @@
-# Java Learning Journey
+# ☕ Java Learning Journey
 
-Welcome to my **Java Learning Repository**
+Welcome to my **Java Learning Repository!**
 
-This repository contains my Java practice files, mini programs, and examples as I learn and improve my Java programming skills.
+This repository documents my journey of learning Java through practice programs, small challenges, and examples. I'm using it to strengthen my programming fundamentals and apply the concepts I learn.
 
 ## 📚 What's Inside
 
 ### `JAVACODES/`
 
-Small Java programs and practice examples covering different concepts.
+A collection of Java practice programs covering different concepts and exercises.
 
-### Main Learning Files
+### Concepts I'm Practising
 
-Practice programs covering topics such as:
-
-* Variables & Data Types
-* Operators & Mathematical Operations
-* If-Else & Conditional Statements
-* Random Numbers
-* User Input & Scanner
+* Variables and Data Types
+* Operators and Mathematical Operations
+* If-Else and Conditional Statements
+* Random Number Generation
+* User Input using `Scanner`
 * String Methods
-* Small Practice Programs & Challenges
+* Small Practice Programs and Challenges
 
-## 🎯 Goal
+## 🎯 My Goal
 
-The goal of this repository is to **practice Java consistently, track my progress, and build a strong foundation in programming.**
+My goal is to **strengthen my Java fundamentals through consistent practice**, track my progress, and gradually move towards building independent projects.
 
-I'll keep adding new programs and concepts as I learn.
+I'll continue updating this repository as I learn new concepts and improve my coding skills.
 
-## Tools
+## 🛠️ Tools & Technologies
 
-* **Java**
-* **VS Code**
-* **Git & GitHub**
+* **Java** — Programming language
+* **VS Code** — Code editor
+* **Git & GitHub** — Version control and project tracking
 
 ---
 
-> **This repository is a work in progress.**
+> * This repository is a work in progress — learning, practising, and improving one program at a time.*
+
 
